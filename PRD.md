@@ -71,7 +71,7 @@ A backend API system for managing activity bookings where registered users can d
 ### FR7: Activity Availability Query
 - **Description**: System provides endpoints to check activity availability, showing remaining seats and current booking count.
 - **Priority**: Medium
-- **Status**: NotStarted
+- **Status**: Completed
 
 ## Technical Requirements
 
